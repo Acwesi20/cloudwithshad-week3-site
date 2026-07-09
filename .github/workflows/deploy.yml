@@ -1,7 +1,5 @@
 name: Deploy website to S3
 
-name: Deploy to S3
-name: Deploy to S3
 
 on:
   push:
